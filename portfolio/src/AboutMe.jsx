@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom"; 
 import "./App.css";
-import profilePic from "./assets/img/profile.jpg";
+import profilePic from "./assets/img/Profile.jpg";
 import owlImg from "./assets/img/owl.png";
 import starImg from "./assets/img/star.png";
 import dingSound from "./assets/img/ding.mp3";
