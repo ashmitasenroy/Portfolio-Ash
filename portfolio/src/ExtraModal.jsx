@@ -4,18 +4,18 @@ const CertModal = ({ show, handleClose }) => {
   return (
     <Modal show={show} onHide={handleClose} centered backdrop="static" dialogClassName="custom-modal">
       <Modal.Header closeButton>
-        <Modal.Title>Certifications</Modal.Title>
+        <Modal.Title>Extra-Curriculars</Modal.Title>
       </Modal.Header>
       <Modal.Body className="modal-body-custom">
         <div className="modal-section">
           <p><strong>Vice President- Enactus SMIT</strong></p>
           <p><em>Oct 2024 - May2025</em></p>
-          <p>Google Developer Student Club - Lead(Editorial)</p>
+          <p>Google Developers Student Club - Lead(Editorial)</p>
           <p><em>Aug 2023 - Dec 2024</em></p>
           <p>TEDxSMIT- Coordinator</p>
-          <p><em>Oct 2023</em></p>
+          <p><em>Sept 2023 - Oct 2023</em></p>
           <p>Business Hackathon Runner's Up</p>
-          <p><em>August 2023</em></p>
+          <p><em>Aug 2023 - Oct 2023</em></p>
         </div>
       </Modal.Body>
       <Modal.Footer>
