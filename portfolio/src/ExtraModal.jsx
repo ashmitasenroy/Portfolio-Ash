@@ -8,16 +8,14 @@ const CertModal = ({ show, handleClose }) => {
       </Modal.Header>
       <Modal.Body className="modal-body-custom">
         <div className="modal-section">
-          <p><strong>IBM Full Stack Development Course</strong></p>
-          <p><em>Coursera</em></p>
-          <p>Data Analytics – Accenture-Job Simulation</p>
-          <p><em>Forage</em></p>
-          <p>Full-Stack Bootcamp – Dr. Angela Yu</p>
-          <p><em>Udemy</em></p>
-          <p>Google Cloud Career Practitioner</p>
-          <p><em>Google Cloud</em></p>
-          <p>Human Computer Interaction – Topper 96%</p>
-          <p><em>NPTEL</em></p>
+          <p><strong>Vice President- Enactus SMIT</strong></p>
+          <p><em>Oct 2024 - May2025</em></p>
+          <p>Google Developer Student Club - Lead(Editorial)</p>
+          <p><em>Aug 2023 - Dec 2024</em></p>
+          <p>TEDxSMIT- Coordinator</p>
+          <p><em>Oct 2023</em></p>
+          <p>Business Hackathon Runner's Up</p>
+          <p><em>August 2023</em></p>
         </div>
       </Modal.Body>
       <Modal.Footer>
