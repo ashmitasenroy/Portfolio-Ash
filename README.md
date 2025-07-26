@@ -19,9 +19,10 @@ Key design principles included:
 
 ### 🛠️ Built With
 
-- **Framework:** React.js
+- **Framework:** React.js & Bootstrap
 - **Styling:** CSS
 - **Deployment:** Render
+- **Backend:** Nodemailer & Javascript
 
 ---
 
