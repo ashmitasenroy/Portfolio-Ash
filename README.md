@@ -50,4 +50,4 @@ If you'd like to run this portfolio on your own machine, you can follow these st
     ```sh
     npm start
     ```
-    The site will be available at `http://localhost:3000`.
+    The site will be available at `http://localhost:5000`.
