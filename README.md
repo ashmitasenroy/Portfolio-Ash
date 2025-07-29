@@ -6,7 +6,7 @@ This repository contains the complete source code for my personal portfolio webs
 
 ---
 
-### 🎯 Purpose & Design Philosophy
+### Purpose & Design 
 
 The primary goal of this portfolio was to create a professional, clean, and extremely fast website to showcase my work. I focused on a **minimalist design philosophy** to ensure that the content—my projects and skills—is the star of the show.
 
