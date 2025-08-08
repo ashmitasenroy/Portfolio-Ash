@@ -15,7 +15,7 @@ Key design principles included:
 - **Full Responsiveness:** Ensuring a seamless experience on desktop, tablet, and mobile.
 - **Clear Navigation:** Making it easy for visitors (like recruiters!) to find what they're looking for.
 
----
+
 
 ### 🛠️ Built With
 
