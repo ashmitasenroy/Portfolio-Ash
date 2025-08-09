@@ -4,7 +4,6 @@ This repository contains the complete source code for my personal portfolio webs
 
 [![View Live Site](https://img.shields.io/badge/View_Live_Site-00b386?style=for-the-badge&logo=About.me&logoColor=white)](https://ashmitas-portfolio.onrender.com/)
 
--
 
 ### Purpose & Design 
 
